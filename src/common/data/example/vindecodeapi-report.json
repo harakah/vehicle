@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "result": {
+      "id": "3646F9E2",
+      "vin": "WBAFR7C57CC811956",
+      "report": {
+          "decoder": {
+              "vin": "WBAFR7C57CC811956",
+              "year": "2012 ",
+              "make": "BMW ",
+              "model": "5-Series ",
+              "trim": "535i ",
+              "madeIn": "GERMANY ",
+              "style": "SEDAN 4-DR ",
+              "engine": "3.0L L6 DOHC 24V ",
+              "fuelTank": "18.50 gallon",
+              "cityMileage": "19 - 21 miles/gallon",
+              "highwayMileage": "29 - 31 miles/gallon",
+              "antiBrakeSystem": "4-Wheel ABS ",
+              "steeringType": "R&P ",
+              "standardSeating": "5 ",
+              "optionalSeating": ""
+          }
+      }
+  }
+}

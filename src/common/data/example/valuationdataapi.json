@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "result": {
+      "id": "3646F9E2",
+      "vin": "WBAFR7C57CC811956",
+      "report": {
+          "nada": {
+              "retail": "16075",
+              "tradeIn": "13575",
+              "roughTradeIn": "10250",
+              "averageTradeIn": "12050",
+              "loanValue": "12225",
+              "uid": 1172227,
+              "msrp": "52250",
+              "tradeInValues": [{
+                  "date": "2018-08-01T00:00:00.000Z",
+                  "value": "13575"
+              }, {
+                  "date": "2018-07-01T00:00:00.000Z",
+                  "value": "13600"
+              }, {
+                  "date": "2018-06-01T00:00:00.000Z",
+                  "value": "14175"
+              }, {
+                  "date": "2018-05-01T00:00:00.000Z",
+                  "value": "14175"
+              }, {
+                  "date": "2018-04-01T00:00:00.000Z",
+                  "value": "14650"
+              }],
+              "auctionValues": {
+                  "lowAuctionValue": 9050,
+                  "averageAuctionValue": 11925,
+                  "highAuctionValue": 14825,
+                  "dateRange": "8/6/2018 - 8/12/2018"
+              }
+          }
+      }
+  }
+}
